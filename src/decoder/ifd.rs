@@ -66,6 +66,7 @@ tags! {
     Model 272;
     NewSubfileType 254; // TODO add support
     Orientation 274; // TODO add support
+    PageNumber 297;
     PhotometricInterpretation 262;
     PlanarConfiguration 284;
     ResolutionUnit 296; // TODO add support
